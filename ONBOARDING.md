@@ -1,4 +1,4 @@
-<img width="662" height="626" alt="image" src="https://github.com/user-attachments/assets/9498f177-a7b0-48d9-a4d5-78f5eb073a75" /><img width="619" height="609" alt="image" src="https://github.com/user-attachments/assets/7d0c7a6c-daf5-4fb0-bd45-e78ccc9e8f67" />---
+
 
 # 🧠 Babua DSA Patterns Course 2025 — Onboarding Sheet
 
