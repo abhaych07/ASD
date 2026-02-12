@@ -1,9 +1,8 @@
 
-
 # 🧠 Babua DSA Patterns Course 2025 — Onboarding Sheet
 
 Welcome to the **Babua DSA Patterns Course 2025** 🎯
-This sheet is designed to help onboard new learners into the course.
+This sheet is designed to help onboard new learners into the course. 
 
 ---
 
