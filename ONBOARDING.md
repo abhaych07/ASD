@@ -60,7 +60,7 @@ This sheet is designed to help onboard new learners into the course.
 | 39  | 700. Search in a Binary Search Tree                    | [🎥 Watch Video](https://www.youtube.com/watch?v=2udPES1G1KM&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=3)  | ✅      |
 | 40  | What is Dynamic Programming???                         | [🎥 Watch Video](https://www.youtube.com/watch?v=yLMZcu3eesk&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=2)  | ✅      |
 | 41  | 💡 Top-Down vs Bottom-Up in Dynamic Programming (DP)   | [🎥 Watch Video](https://www.youtube.com/watch?v=425rDIfst8E&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=3)  |✅      |
-| 42  | Identify DP Problems                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=7-H4ij0MWTM&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=4)  | ☐      |
+| 42  | Identify DP Problems                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=7-H4ij0MWTM&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=4)  | ✅      |
 | 43  | 198. House Robber                                      | [🎥 Watch Video](https://www.youtube.com/watch?v=X5Z8UTWhsX8&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=6)  | ☐      |
 
 ---
